@@ -1,5 +1,4 @@
-Absolutely! Below is the full article **rewritten in GitHub README style** — ideal for a public repo showcasing your knowledge of **React Server Components** and frontend performance engineering.
-
+#-React-Server-Components-A-Performance-Deep-Dive
 ---
 
 ````markdown
